@@ -194,6 +194,7 @@
     <script src="game_analyzer.js?v=<?= $VERSION ?>"></script>
     <script type="module" src="online/client.js?v=<?= $VERSION ?>"></script>
     <script src="main.js?v=<?= $VERSION ?>"></script>
+    <script src="chess_tutor.js?v=1.0"></script>
 
     <script>
         // Fix Zoom Mobile: Prevent double-tap and pinch zoom
